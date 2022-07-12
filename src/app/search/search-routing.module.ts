@@ -2,6 +2,7 @@ import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 import { SearchPage } from './search.page';
+import { RouterMenuComponent } from '../shared/router-menu/router-menu.component';
 
 const routes: Routes = [
   {
